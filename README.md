@@ -1,2 +1,2 @@
 ChatBot Using NLTk
-ChatBot Using Newspaper3k
+Newspaper3k
